@@ -1,0 +1,34 @@
+/* CSS Syntax Exemplo */
+
+/*Propiedades de fontes*/
+
+/*font-family serve para definir a familia de fontes*/
+/*font-size serve para definir o tamanho da fonte*/
+/*font-style serve para definir o estilo da fonte*/
+/*font-weight serve para definir o peso da fonte*/
+/*font-variant serve para definir a variante da fonte*/
+
+/*Propriedades de texto*/
+
+/*text-align serve para definir o alinhamento do texto*/
+/*text-decoration serve para definir a decoração do texto*/
+/*text-indent serve para definir o recuo do texto*/
+/*text-transform serve para definir a transformação do texto*/
+
+/*Propriedades de cor*/
+
+/*color serve para definir a cor do texto*/
+/*background-color serve para definir a cor de fundo*/
+
+/*modelo de caixa parte 1*/
+
+/*width serve para definir a largura do elemento*/
+/*height serve para definir a altura do elemento*/
+/*padding serve para definir o preenchimento do elemento*/
+/*margin serve para definir a margem do elemento*/
+/*border serve para definir a borda do elemento*/
+
+
+body {
+font-family: Arial, sans-serif;
+}
