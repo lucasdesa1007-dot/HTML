@@ -29,6 +29,18 @@
 /*border serve para definir a borda do elemento*/
 
 
+ /* /* Pseudo-classes: */
+ /* a:link{...}  */
+ /* a:visited{...} */
+ /* a:hover{...} */
+ /* a:active{...}  */
+
+/* lista */
+
+/* list-style-type
+list-style-position
+list-styles-image */
+
 body {
 font-family: Arial, sans-serif;
 }
